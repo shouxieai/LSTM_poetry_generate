@@ -1,0 +1,14 @@
+1. 课堂代码(文件夹):  手写代码文件1,2,3,4,5
+2. torch_古诗生成1.py : 手写了Dataset 和 DataLoader
+3. torch_古诗生成2.py : 使用pytorch Dataset 和 DataLoader
+4. torch_古诗生成3.py : 高度封装, 加入藏头诗
+5. poetry_5.txt : 五言古诗训练集
+6. poetry_7.txt : 七言古诗训练集
+7. Poetry_Model_lstm_model123.pkl : 参数文件, 运行时生成
+8. split_7.txt : 古诗训练集切分文件, 运行时产生
+9. word_vec.pkl : 词向量参数文件, 运行时产生
+
+本机环境:
+torch : 1.8.1
+numpy 1.20.3
+gensim 4.0.1
